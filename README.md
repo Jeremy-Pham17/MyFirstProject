@@ -16,7 +16,7 @@ Average: 88.5
 Grade: B
 
 ## Author
-Your Name
+Jeremy Pham
 
 Update README with lab Instructions
 ## Collaboration Acknowledgment
