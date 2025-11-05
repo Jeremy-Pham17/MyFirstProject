@@ -19,5 +19,6 @@ Grade: B
 Your Name
 
 Update README with lab Instructions
-
+## Collaboration Acknowledgment
+This project was reviewed and edited by [Marcuz Hernandez] on GitHub.
 HELLO WORLD! - Marcus H
